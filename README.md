@@ -1,6 +1,6 @@
 # **Base Web3 Project**
 
-compile : npx hardhat compiles
+compile : npx hardhat compile
 
 create a local node : npx hardhat node
 
